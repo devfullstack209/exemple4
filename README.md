@@ -10,3 +10,4 @@ Les projets open source que les développeurs modifient ou complètent par eux-m
 Bugs connus et corrections éventuelles apportées.
 Section FAQ reprenant toutes les questions posées jusqu’à présent.
 Droits d’auteurs et informations sur la licence.
+sqdqsfqsdfds
